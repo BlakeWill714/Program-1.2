@@ -1,0 +1,12 @@
+ 6.31  Validating credit card numbers
+	      
+//      // prompt for credit card number entry:
+//      // test case: 4388576018410707
+//      // test case: 4388576018402626
+//
+//     
+//      System.out.print("\nEnter a credit card number: ");
+//      long number = in.nextLong();
+//     
+//      System.out.print(number + " is ");
+//      System.out.print( (isValid(number)) ? "valid":"invalid" );
